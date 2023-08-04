@@ -17,7 +17,7 @@ TIME_ZONE = 'America/Sao_Paulo'
 
 5 - Agora podemos startar um SERVER para acesso web, clique no menu
 "Terminal" no Pycharm, acesse o local onde está o manage.py e digite: 
-python manage.py sunserver
+python manage.py runserver
 
 6 - Com o Link disponibilizado, acesse-o no navegador
 
